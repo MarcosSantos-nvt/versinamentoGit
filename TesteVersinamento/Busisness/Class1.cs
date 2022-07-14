@@ -8,5 +8,10 @@
         {
             Texto = texto;
         }
+
+        public string RetornaUmTexto()
+        {
+            return Texto;
+        }
     }
 }
